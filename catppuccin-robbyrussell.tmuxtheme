@@ -2,7 +2,7 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Catppuccin (robbyrussell)
-thm_bg="#d8d8d8"
+thm_bg="#181818"
 thm_fg="#d8d8d8"
 thm_cyan="#75b5aa"
 thm_black="#181818"
